@@ -4,7 +4,7 @@ description: Integrate IMOU smart devices into Home Assistant.
 ha_category:
   - Camera
 ha_iot_class: Cloud Polling
-ha_release: 0.10
+ha_release: 2024.1
 ha_config_flow: true
 ha_domain: imoulife
 ha_codeowners:
